@@ -1,0 +1,21 @@
+.inputCover    {
+    background-color:blue;
+    width:300;
+   border-color:"white";
+   border-Radius:10;
+   border-width:2;
+   padding:10;
+   margin:10;
+   top:50;
+  };
+  input{
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+}
+form{
+    padding: 2vh 0;
+}
